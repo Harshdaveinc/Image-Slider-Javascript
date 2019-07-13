@@ -18,11 +18,10 @@ body {
   transition: 1s;
   left: 0;
   right: 0;
-
 }
 
 .header {
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
   text-align: center;
   position: relative;
 }
@@ -32,25 +31,25 @@ body {
   float: left;
   height: 75vh;
   width: 90vh;
-  background-size: cover; 
+  background-size: cover;
   background-position: center;
   border-radius: 15px;
 }
 
 .slide1 {
-  background-image: url('https://images.pexels.com/photos/1451471/pexels-photo-1451471.jpeg');
+  background-image: url("https://images.pexels.com/photos/1451471/pexels-photo-1451471.jpeg");
 }
 
 .slide2 {
-  background-image: url('https://images.pexels.com/photos/2612852/pexels-photo-2612852.jpeg');
+  background-image: url("https://images.pexels.com/photos/2612852/pexels-photo-2612852.jpeg");
 }
 
 .slide3 {
-  background-image: url('https://images.pexels.com/photos/1236730/pexels-photo-1236730.jpeg');
+  background-image: url("https://images.pexels.com/photos/1236730/pexels-photo-1236730.jpeg");
 }
 
 .slide4 {
-  background-image: url('https://images.pexels.com/photos/2156416/pexels-photo-2156416.jpeg');
+  background-image: url("https://images.pexels.com/photos/2156416/pexels-photo-2156416.jpeg");
 }
 
 img {
@@ -60,7 +59,8 @@ img {
 }
 
 .slide-content {
-  display: inline-flex;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
   top: 50%;
