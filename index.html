@@ -18,17 +18,36 @@
         position: absolute;
         top: 120px;
         left: 335px;
+        z-index: -1;
+      }
+      #prev {
+        padding: 60px 15px 60px 15px;
+        border: 1px solid white;
+        font-size: 25px;
+        position: absolute;
+        top: 278px;
+        left: 287px;
+      }
+      #next {
+        padding: 60px 15px 60px 15px;
+        border: 1px solid white;
+        font-size: 25px;
+        position: absolute;
+        top:278px;
+        right:279px;
       }
     </style>
   </head>
   <body>
+    <button id="prev" onclick="prevpic()"><</button>
     <div id="image">
-      <img
+      <img id="inimage"
         src="https://images.pexels.com/photos/1078058/pexels-photo-1078058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
         width="700px"
         height="450px"
       />
     </div>
+    <button id="next">></button>
     <script src="index.js"></script>
   </body>
 </html>
