@@ -1,3 +1,4 @@
+console.log("working fine man !! ")
 let leftArrow = document.getElementById('arrow-left');
 let rightArrow = document.getElementById('arrow-right');
 let images = document.getElementsByClassName('slide');
