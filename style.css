@@ -253,7 +253,7 @@ img {
   }
 
   #arrow-left {
-    border-width: 25px;
+    border-width: 30px;
     margin-left: 0px;
     position: absolute;
     left: -20px;
@@ -272,8 +272,10 @@ img {
   }
 
   #arrow-right {
-    border-width: 25px;
+    border-width: 30px;
     margin-right: 0px;
+    position: absolute;
+    right: -20px;
   }
 
   .slide-content h1 {
@@ -283,7 +285,7 @@ img {
   #foot {
     position: absolute;
     font-size: 20px;
-    top: 580px;
+    top: 570px;
     right: 50px;
   }
 
