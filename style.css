@@ -236,7 +236,7 @@ img {
   }
   .slide{
     background-repeat: no-repeat;
-    background-size: 100vh;
+    background-size: 100%;
     border-radius: 15px;
   }
   .header {
