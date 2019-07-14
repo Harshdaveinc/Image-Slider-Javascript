@@ -15,6 +15,7 @@ body {
 }
 .music{
   visibility: hidden;
+  overflow: hidden;
 }
 @keyframes change {
   0% {
