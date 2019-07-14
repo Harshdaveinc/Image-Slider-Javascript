@@ -1,8 +1,9 @@
-/*let name = prompt("Enter Your Name");
+let name = prompt("Enter Your Name");
+alert("Made By Harsh Dave !! Font Contribution By Chirag Chande !!")
 
 function loaded() {
   alert(" Welcome " + `${name}` + " now Document Is Loaded !!");
-}*/
+}
 let leftArrow = document.getElementById('arrow-left');
 let rightArrow = document.getElementById('arrow-right');
 let images = document.getElementsByClassName('slide');
