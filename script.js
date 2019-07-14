@@ -1,4 +1,8 @@
-console.log("working fine man !! ")
+let name = prompt("Enter Your Name");
+
+function loaded() {
+  alert(" Welcome " + `${name}` + " now Document Is Loaded !!");
+}
 let leftArrow = document.getElementById('arrow-left');
 let rightArrow = document.getElementById('arrow-right');
 let images = document.getElementsByClassName('slide');
