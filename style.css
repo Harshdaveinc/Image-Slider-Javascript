@@ -14,7 +14,7 @@ body {
   position: relative;
   animation: change 10s ease-in-out infinite;
 }
-.music{
+.music {
   visibility: hidden;
   overflow: hidden;
 }
@@ -37,7 +37,7 @@ body {
   top: 70px;
   left: 20px;
   right: 20px;
-  width: 90%;
+  width: 95%;
   height: 50vh;
 }
 
@@ -68,103 +68,120 @@ body {
 .slide1 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/1451471/pexels-photo-1451471.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2564463/pexels-photo-2564463.jpeg");
 }
 
 .slide2 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2612852/pexels-photo-2612852.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/1451471/pexels-photo-1451471.jpeg");
 }
 
 .slide3 {
   background-repeat: no-repeat;
   opacity: 0.9;
+  background-size: 100vh;
   background-image: url("https://images.pexels.com/photos/1236730/pexels-photo-1236730.jpeg");
 }
 
 .slide4 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2156416/pexels-photo-2156416.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2168356/pexels-photo-2168356.jpeg");
 }
 
 .slide5 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/1078058/pexels-photo-1078058.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2583833/pexels-photo-2583833.jpeg");
 }
 
 .slide6 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2587316/pexels-photo-2587316.jpeg");
 }
 
 .slide7 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2555635/pexels-photo-2555635.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2246789/pexels-photo-2246789.jpeg");
 }
 
 .slide8 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2611690/pexels-photo-2611690.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2531734/pexels-photo-2531734.jpeg");
 }
 
 .slide9 {
   background-repeat: no-repeat;
   opacity: 0.9;
+  background-size: 100vh;
   background-image: url("https://images.pexels.com/photos/2622179/pexels-photo-2622179.jpeg");
 }
 
 .slide10 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/1904105/pexels-photo-1904105.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2096700/pexels-photo-2096700.jpeg");
 }
 
 .slide11 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2387870/pexels-photo-2387870.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2405101/pexels-photo-2405101.jpeg");
 }
 
 .slide12 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/2549236/pexels-photo-2549236.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2404100/pexels-photo-2404100.jpeg");
 }
 
 .slide13 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/1813252/pexels-photo-1813252.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2422487/pexels-photo-2422487.jpeg");
 }
 
 .slide14 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/773471/pexels-photo-773471.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2387868/pexels-photo-2387868.jpeg");
 }
 
 .slide15 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/1786769/pexels-photo-1786769.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/2383277/pexels-photo-2383277.jpeg");
 }
 
 .slide16 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/92871/pexels-photo-92871.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/38280/monkey-mandril-africa-baboon-38280.jpeg");
 }
 
 .slide17 {
   background-repeat: no-repeat;
   opacity: 0.9;
-  background-image: url("https://images.pexels.com/photos/592063/pexels-photo-592063.jpeg");
+  background-size: 100vh;
+  background-image: url("https://images.pexels.com/photos/1231643/pexels-photo-1231643.jpeg");
 }
 
 img {
@@ -206,7 +223,7 @@ img {
   left: 0;
   top: 250px;
   margin-left: 30px;
-  z-index: 9;   
+  z-index: 9;
 }
 
 #arrow-right {
@@ -227,14 +244,14 @@ img {
 }
 
 @media only screen and (max-width: 640px) {
-  #slider{
+  #slider {
     overflow: hidden;
   }
   #arrow-left {
     border-width: 25px;
     margin-left: 0px;
   }
-  .slide{
+  .slide {
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 15px;
@@ -253,6 +270,9 @@ img {
   }
 
   #foot {
-    visibility: hidden;
+    position: absolute;
+    font-size: 15px;
+    top: 580px;
+    right: 80px;
   }
 }
