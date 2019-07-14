@@ -13,7 +13,9 @@ body {
   position: relative;
   animation: change 10s ease-in-out infinite;
 }
-
+.music{
+  visibility: hidden;
+}
 @keyframes change {
   0% {
     background-position: 0 50%;
@@ -223,13 +225,16 @@ img {
 }
 
 @media only screen and (max-width: 640px) {
+  #slider{
+    overflow: hidden;
+  }
   #arrow-left {
     border-width: 25px;
     margin-left: 0px;
   }
   .slide{
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100vh;
     border-radius: 15px;
   }
   .header {
