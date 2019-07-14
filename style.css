@@ -227,7 +227,11 @@ img {
     border-width: 25px;
     margin-left: 0px;
   }
-
+  .slide{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 15px;
+  }
   .header {
     font-size: 30px;
   }
